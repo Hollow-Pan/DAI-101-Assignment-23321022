@@ -1,6 +1,6 @@
 # DAI-101 Assignment 23321022
  
-Life Expectancy Dependence Factors, Data Analysis and Predictions
+Life Expectancy Dependence Factors, Data Analysis and Predictions, by Pradhumn Bhati
 
 
 This analysis investigates the factors influencing life expectancy across different countries in 2015. The dataset includes socio-economic, health, and demographic variables such as GDP, healthcare expenditure, schooling, and mortality rates, etc. The goal is to clean the data, analyze patterns, and explore relationships between variables to understand their impact on life expectancy.
